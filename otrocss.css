@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+body{
+    background-size: 100%;
+    height: auto;
+    width: auto;
+    font-family: 'Yatra One', sans-serif;  
+    background-image: url(img/baackground.jpg);
+}
+h1,h3{
+    text-align: center;
+    font-family: 'Yatra One', sans-serif; 
+}
+.paper.container{
+    color: rgb(0, 0, 0);
+    
+    background-color: rgba(255, 255, 255, 0.521);
+}
+label{
+    border-color: rgb(0, 0, 0);
+  background-color: rgba(23, 13, 13, 0.594);
+ 
+}
+p{
+    font-family: 'Macondo', sans-serif; 
+}
+img{
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
+    width: 50%;
+}
+.card{
+    background-color: rgb(183, 180, 180);
+}
+.card-title{
+    font-family: 'Yatra One', sans-serif; 
+}
